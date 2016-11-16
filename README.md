@@ -31,7 +31,3 @@ gets created and the content matches the artifacts.
 
 # Artifacts:
 Artifacts are test artifacts that the unit tests try to compare its generated data.
-
-#Support:
-Please send email to [chocks](mailto:chocks@outlook.com)
-
